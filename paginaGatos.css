@@ -1,0 +1,15 @@
+.tituloPrincipal{
+    text-align: center;
+}
+.textoDescripcion{
+    text-align: justify;
+}
+.btnMasInformacion{
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    padding: 10px;
+}
+.pagina{
+    padding: 50px;
+}
